@@ -1,0 +1,51 @@
+Project Description:
+The Plant Co.  Performance Dashboard 2023 is an interactive Power BI dashboard designed to provide comprehensive 
+insights into the quantity, sales, and gross profit performance of Plant Company for the year 2023. This dashboard 
+visualizes key metrics such as year-to-date (YTD) quantity, sales, gross profit percentage (GP%), and monthly performance 
+comparisons. It helps stakeholders understand the company's performance across different countries and product types, 
+enabling informed decision-making.
+
+Steps Involved:
+Data Collection and Preparation:
+Data Source: Collected data from Plant Company's internal databases, including information on quantities sold, sales 
+figures, gross profit, and product types.
+Data Cleaning: Cleaned the data by removing duplicates, handling missing values, and ensuring consistency in data 
+formatting using Excel for initial preparation.
+
+Data Import to Power BI:
+Imported the cleaned dataset into Power BI for further analysis and visualization.
+Data Modeling:
+Created relationships between different tables in the dataset to enable accurate and efficient data analysis.
+Ensured the data model supports the necessary calculations and visualizations.
+Dashboard Design:
+Layout Planning: Designed the layout of the dashboard, ensuring a logical flow and easy navigation for users.
+Visual Elements: Added various visualizations to represent the performance data:
+Tree Map: Bottom 10 YTD vs PYTD by country, showing the countries with the most significant changes.
+Waterfall Chart: Quantity YTD vs PYTD by month, country, and product, visualizing increases and decreases in quantities sold.
+KPI Cards: Key performance indicators showing YTD quantity, YTD vs PYTD change, PYTD, and GP%.
+Clustered Column Chart: Quantity YTD & PYTD by month, displaying product type distribution (Indoor, Landscape, Outdoor) and PYTD values.
+Scatter Plot: Account profitability segmentation, showing GP% and quantity correlation.
+
+Interactive Elements:
+Filters and Slicers: Implemented slicers to allow users to filter data by year, product type, and country, providing a 
+customized view of the data.
+Dynamic Charts: Ensured that charts and graphs update dynamically based on user selections from filters and slicers.
+
+Final Touches:
+Aesthetic Enhancements: Applied a consistent color scheme, fonts, and design elements to enhance the visual appeal of 
+the dashboard.
+Usability Testing: Conducted usability testing to ensure the dashboard is intuitive and user-friendly, making adjustments 
+based on feedback.
+
+Technical Details:
+Tools Used: Microsoft Power BI for data visualization and dashboard creation.
+Data Cleaning: Utilized Excel for initial data cleaning and preparation.
+Design Considerations: Focused on creating an accessible and visually appealing interface, with a clear emphasis on ease 
+of use and readability.
+
+Conclusion:
+The Plant Co. Quantity Performance Dashboard 2023 is a valuable tool for understanding the company's performance in 
+terms of quantity, sales, and gross profit. It provides actionable insights that can help stakeholders make informed 
+decisions to optimize sales strategies and improve overall business performance. This project demonstrates proficiency in 
+data analysis, Power BI functionality, and dashboard design.
+
